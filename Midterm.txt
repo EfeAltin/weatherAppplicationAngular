@@ -1,0 +1,8 @@
+https://github.com/EfeAltin/weatherAppplicationAngular
+
+Sunumuda readme bölümünde de bulabilirsiniz
+
+projedeki src klasörünün altındaki environments dosyasındaki kodlardan "XRapidAPIKeyHeaderValue" valuesini
+sildim leaklenmemesi için ama buradan paylaşabilirim, value bu şekildedir: f1f74a7d78msh7a4e047152fa0c5p1df5ffjsn8c945ab1fece
+
+
